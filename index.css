@@ -29,3 +29,16 @@ h3#qTitle {
   height: 70px;
   align-items: center;
 }
+ul {
+  list-style-type: none;
+  padding: 10%;
+}
+
+ul li {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+
+ul li label {
+  cursor: pointer;
+}
